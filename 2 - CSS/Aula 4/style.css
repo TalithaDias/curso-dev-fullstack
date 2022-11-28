@@ -1,0 +1,18 @@
+body {
+    background: #cecece;
+}
+
+p {
+    color: #222222
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shortland*/
+    border-radius: 10% 0 90% 0;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+}
